@@ -1,0 +1,5 @@
+app_name := "TestApp"
+settings := begin
+    resolution := "1920x1080"
+    volumes := ({ 50, 75, 100 })
+end

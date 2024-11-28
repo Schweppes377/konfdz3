@@ -1,0 +1,6 @@
+project := "SampleProject"
+metadata := begin
+    created := "2024-11-28"
+end
+status := "active"
+ыыыыыыыыыыыыыыыыыыыыыы

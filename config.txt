@@ -1,0 +1,10 @@
+name := "TestName"
+value := 123
+begin
+    item1 := "Hello"
+    item2 := ({ 1, 2, 3 })
+    item3 := begin
+        nested1 := "World"
+        nested2 := 456
+    end
+end
